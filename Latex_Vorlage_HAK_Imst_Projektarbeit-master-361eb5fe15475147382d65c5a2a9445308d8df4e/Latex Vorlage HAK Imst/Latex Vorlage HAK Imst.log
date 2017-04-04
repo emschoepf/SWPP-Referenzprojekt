@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.28)  28 MAR 2017 10:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.28)  4 APR 2017 09:44
 entering extended mode
 **"./Latex Vorlage HAK Imst.tex"
 ("Latex Vorlage HAK Imst.tex"
@@ -2578,9 +2578,6 @@ d.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
@@ -2604,7 +2601,7 @@ ic/lm/lmro12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtk10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "Latex Vorlage HAK Imst.pdf" (43 pages, 5370387 bytes).
+Output written on "Latex Vorlage HAK Imst.pdf" (43 pages, 5371659 bytes).
 PDF statistics:
  684 PDF objects out of 1000 (max. 8388607)
  187 named destinations out of 1000 (max. 500000)
