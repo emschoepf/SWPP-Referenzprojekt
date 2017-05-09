@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.28)  4 APR 2017 09:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.28)  4 APR 2017 10:25
 entering extended mode
 **"./Latex Vorlage HAK Imst.tex"
 ("Latex Vorlage HAK Imst.tex"
@@ -1472,14 +1472,14 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 174.
 Package scrbase Info: activating ngerman \lstlistingname on input line 174.
 Package Listings Info: Made | a short reference for \lstinline on input line 17
 5.
- <Logo_Projektpartner.png, id=246, 676.5275pt x 432.61626pt>
+ <Logo_Projektpartner.png, id=238, 676.5275pt x 432.61626pt>
 File: Logo_Projektpartner.png Graphic file (type png)
 
 <use Logo_Projektpartner.png>
 Package pdftex.def Info: Logo_Projektpartner.png used on input line 178.
 (pdftex.def)             Requested size: 133.47594pt x 85.35826pt.
 
-<Logo_HAK_Imst.png, id=248, 162.3666pt x 103.8279pt>
+<Logo_HAK_Imst.png, id=240, 162.3666pt x 103.8279pt>
 File: Logo_HAK_Imst.png Graphic file (type png)
  <use Logo_HAK_Imst.png>
 Package pdftex.def Info: Logo_HAK_Imst.png used on input line 178.
@@ -1566,30 +1566,34 @@ Package babel Info: Redefining ngerman shorthand "~
  [3
 
 ]
+Overfull \hbox (0.72661pt too wide) in paragraph at lines 28--30
+\T1/lmr/m/n/12 Unser Ref-fe-renz-pro-jekt "Geo-Questïst ein Grund-le-ge-nes Pro
+-gram-m/ei-ne Grund-
+ []
+
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
- [4
+(babel)             in language  on input line 32.
+[4
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 32.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 33.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
  [5
 
 ])
@@ -1685,18 +1689,6 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 10.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 11.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 11.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 12.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 12.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 13.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 13.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 14.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2099,30 +2091,6 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-
-Package natbib Warning: Citation `resnick_distributed_1996' on page 31 undefine
-d on input line 5.
-
-
-Package natbib Warning: Citation `harel_situating_1991' on page 31 undefined on
- input line 6.
-
-
-Package natbib Warning: Citation `resnick_distributed_1996' on page 31 undefine
-d on input line 6.
-
-
-Package natbib Warning: Citation `anastopoulou_constructionism_2012' on page 31
- undefined on input line 8.
-
-
-Package natbib Warning: Citation `beer_rudolf_aspekte_2011' on page 31 undefine
-d on input line 10.
-
-
-Package natbib Warning: Citation `ackermann_piagets_2001' on page 31 undefined 
-on input line 17.
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2134,15 +2102,11 @@ Package babel Info: Redefining ngerman shorthand "~
 [31
 
 ]
-
-Package natbib Warning: Citation `gohlich_lernen:_2007' on page 32 undefined on
- input line 19.
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 25.
-<figures/Arduino_Example.jpg, id=459, 5203.44pt x 3468.96pt>
+ <figures/Arduino_Example.jpg, id=471, 5203.44pt x 3468.96pt>
 File: figures/Arduino_Example.jpg Graphic file (type jpg)
 
 <use figures/Arduino_Example.jpg>
@@ -2163,7 +2127,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 39.
 
-<figures/shift_reg.png, id=461, 234.1247pt x 277.78781pt>
+<figures/shift_reg.png, id=473, 234.1247pt x 277.78781pt>
 <use figures/shift_reg.png> <use figures/shift_reg.png>
 <use figures/shift_reg.png>
 File: figures/shift_reg.png Graphic file (type png)
@@ -2526,9 +2490,7 @@ Package babel Info: Redefining ngerman shorthand "~
 \tf@lol=\write8
 \openout8 = `"Latex Vorlage HAK Imst.lol"'.
 
-
-No file "Latex Vorlage HAK Imst".bbl.
-(inp_appendix.tex
+ ("Latex Vorlage HAK Imst.bbl"
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2540,6 +2502,31 @@ Package babel Info: Redefining ngerman shorthand "~
  [42
 
 ]
+chapter without number
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 57.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 57.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 57.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 57.
+[43
+
+]) (inp_appendix.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [44]
 chapter A.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -2550,9 +2537,6 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
 )
-
-Package natbib Warning: There were undefined citations.
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 199.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2561,7 +2545,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 199.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 199.
-[43
+ [45
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
@@ -2573,7 +2557,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
 Package rerunfilecheck Info: File `"Latex Vorlage HAK Imst".out' has not change
 d.
-(rerunfilecheck)             Checksum: 06AD11AA8762CE19922028814248E5D1;3930.
+(rerunfilecheck)             Checksum: 3183F33C2C776FBF97D51320E087E86E;3805.
 
 
 LaTeX Warning: There were undefined references.
@@ -2581,29 +2565,31 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 26417 strings out of 493333
- 476565 string characters out of 3139188
+ 26446 strings out of 493333
+ 477320 string characters out of 3139188
  701789 words of memory out of 3000000
- 29257 multiletter control sequences out of 15000+200000
- 75820 words of font info for 60 fonts, out of 3000000 for 9000
+ 29273 multiletter control sequences out of 15000+200000
+ 82877 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,18n,66p,8837b,2093s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
 nc/dvips/base/8r.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc
 }<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
-lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/lm/lmro12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtk10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "Latex Vorlage HAK Imst.pdf" (43 pages, 5371659 bytes).
+s/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
+m/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/lm/lmtk10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+
+Output written on "Latex Vorlage HAK Imst.pdf" (45 pages, 5430091 bytes).
 PDF statistics:
- 684 PDF objects out of 1000 (max. 8388607)
- 187 named destinations out of 1000 (max. 500000)
- 513 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 721 PDF objects out of 1000 (max. 8388607)
+ 196 named destinations out of 1000 (max. 500000)
+ 497 words of extra memory for PDF output out of 10000 (max. 10000000)
 
